@@ -1,8 +1,5 @@
 <div align="center">
-  <p>
-    <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demoasdlab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mateus+Adada" alt="KHALIL AIT NOUISSE"/></a>
-  </p>
+  <h1 align="center" style="color: #2b6cb0;">KHALIL AIT NOUISSE</h1>
   
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&width=435&lines=Software+Engineering+Student;Cloud+%26+Devops+Enthusiast;Sunset+Chaser" alt="Typing SVG" /></a>
