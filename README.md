@@ -10,19 +10,19 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 Hi! I’m a software engineering student at **ENSAM Meknes** specializing in **Intelligent Systems**. I am driven by the intersection of research, engineering, and building systems with real-world impact.
 
-* ☁️ **DevOps & Cloud:** Currently focused on infrastructure, distributed systems, and cloud-native architectures.
-* 🧠 **Intelligent Systems:** Strong foundation in AI-powered systems, including RAG pipelines and Multi-Agent AI systems.
-* 🎓 Education: 4th-year student at ENSAM Meknes, specializing in Intelligent Systems.
-* 🚀 **Current Stack:** Building Kubernetes-based platforms and high-performance backend services using **Golang**.
+* **DevOps & Cloud:** Currently focused on infrastructure, distributed systems, and cloud-native architectures.
+* **Intelligent Systems:** Strong foundation in AI-powered systems, including RAG pipelines and Multi-Agent AI systems.
+* **Education**: 4th-year student at ENSAM Meknes, specializing in Intelligent Systems.
+* **Current Stack:** Building Kubernetes-based platforms and high-performance backend services using **Golang**.
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,java,nodejs,express,rabbitmq,mongodb,postgres,mysql,redis,docker,aws,linux,ubuntu,tensorflow,pytorch,prisma,sklearn,git,github,vscode,postman,idea&perline=13" />
+  <img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,java,nodejs,express,rabbitmq,mongodb,postgres,mysql,redis,docker,aws,linux,grafana,ubuntu,tensorflow,pytorch,prisma,sklearn,postman,idea&perline=13" />
 </p>
 
 ---
