@@ -22,7 +22,7 @@ Hi! I’m a software engineering student at **ENSAM Meknes** specializing in **I
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,java,nodejs,express,rabbitmq,mongodb,postgres,mysql,redis,docker,aws,linux,grafana,ubuntu,tensorflow,pytorch,prisma,sklearn,postman,idea&perline=13" />
+  <img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,java,nodejs,express,rabbitmq,mongodb,postgres,mysql,redis,docker,aws,linux,grafana,ubuntu,tensorflow,prisma,sklearn,postman,idea&perline=13" />
 </p>
 
 ---
